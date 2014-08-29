@@ -1,0 +1,1 @@
+I'm creating this repo to practice writing unit tests from scratch with mocha chai and possibly jasmine.
