@@ -1,0 +1,12 @@
+{
+  "name": "unit-test-practice",
+  "version": "0.0.0",
+  "description": "I'm creating this repo to practice writing unit tests from scratch with mocha and chai.",
+  "main": "ns.js",
+  "dependencies": {
+    "chai": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
