@@ -1,1 +1,1 @@
-I'm creating this repo to practice writing unit tests from scratch with mocha and expect.
+I'm creating this repo to practice writing unit tests from scratch with mocha and chai.
