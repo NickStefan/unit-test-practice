@@ -22,3 +22,15 @@ describe('fancyName', function(){
     expect(ns.fancyName("Nick Stefan").split(" ").length).to.be.at.least(4);
   });
 });
+
+describe('asyncFunc', function(){
+  
+  beforeEach(function(done){
+    ns.asyncFunc(done);
+  });
+  
+  it('should return a true value despite async', function(done){
+    expect(ns.asyncResult).to.equal(true);
+    done();
+  });
+});
